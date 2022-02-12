@@ -2,6 +2,8 @@
 <!-- # Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 [![Header](https://github.com/Sahil-Chavan/Sahil-Chavan/blob/main/Github%20Banner%201%20(5).gif "Header")](https://some-url.dev/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chavan&hide=jupyter%20notebook,html&layout=compact)](https://github.com/Sahil-Chavan/github-readme-stats)
 <!-- <img align="right" alt="Coding" width="1400" src="Github Banner 1 (5).gif"> -->
 
 <!--
