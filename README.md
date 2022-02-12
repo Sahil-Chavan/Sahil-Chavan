@@ -18,6 +18,22 @@
 - 👨‍🎓 Currently studying at B.E. Computer Engineering at RAIT, Navi Mumbai (2018 batch).
 
 
+
+<!-- <img alt="GIF" src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e4795mlpusrqd1hn5ufa3urg1a7spdwdl85tt5b3tnm&rid=giphy.gif&ct=g" align="left" width="200" height="200" /> -->
+<!-- <img alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" align="left" width="200" height="200" /> -->
+<img alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="left" width="200" height="200" />
+
+<!-- - 🔭 I’m currently working on [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) and [Hands on ML Basic to Advance](https://github.com/Niketkumardheeryan/Hands-on-ML-Basic-to-Advance-) as a part of LGM-SoC. -->
+<!-- - 🤔 I’m looking for help to crack [Google Summer of Code]() and [MLH fellowship](). -->
+ - 🔭 I’m currently working on my Final Year Project i.e Applications of OD and CBIR in Fashion Industry.
+- 🌱 I’m currently learning Natural Language Processing. 
+- 👯 I’m looking to collaborate on any research paper or project.
+- 💬 Ask me anything, I am there when you need me.
+- ❤️ I love Music,Coffe and Watching Movies,Web-series & Documentaries. 
+- 📝 Get to know more about me : [Resume](https://drive.google.com/file/d/1ZjFT1YDB4nGwyF-Wn5IikzhQrvkONq0e/view?usp=sharing)
+
+<br>
+
 ### ➤ 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐁𝐚𝐬𝐞 👨‍🏫 :
  ➢ I have been accumulating skills and practicing Computer Vision, NLP, Deep Learning and Machine Learning since last 1.5 years and still going strong.
 Have worked on many projects to gather experience. Currently working on an research project. I am at a point to contribute at an larger scale. Waiting for right opportunity.
