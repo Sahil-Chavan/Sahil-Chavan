@@ -13,7 +13,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs" />
 </a> -->
 
-## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<!-- ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 -->
+<h2 align="center">📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
 - 👨🏼‍💻 Aspiring Data Scientist and Machine Learning Engineer.
 - 👨‍🎓 Currently studying at B.E. Computer Engineering at RAIT, Navi Mumbai (2018 batch).
 
@@ -34,7 +35,8 @@
 
 <br>
 
-### ➤ 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐁𝐚𝐬𝐞 👨‍🏫 :
+<!-- ### ➤ 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐁𝐚𝐬𝐞 👨‍🏫 : -->
+<h3 align="center"> 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐁𝐚𝐬𝐞 👨‍🏫</h3>
  ➢ I have been accumulating skills and practicing Computer Vision, NLP, Deep Learning and Machine Learning since last 1.5 years and still going strong.
 Have worked on many projects to gather experience. Currently working on an research project. I am at a point to contribute at an larger scale. Waiting for right opportunity.
 
@@ -46,14 +48,17 @@ Received appreciation letter from NSS MU Director for NSS Mumbai University Proj
  ➢ Subsequently I have been called upon as expert speaker by SDG RAIT. And have successfully mentored an team for winter internship at SDG RAIT.
 
 
-### ➤ 𝐌𝐞 𝐚𝐧𝐝 𝐌𝐲 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐭𝐲 🧑🏽‍🦲 :
+<!-- ### ➤ 𝐌𝐞 𝐚𝐧𝐝 𝐌𝐲 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐭𝐲 🧑🏽‍🦲 : -->
+<h3 align="center"> 𝐌𝐞 𝐚𝐧𝐝 𝐌𝐲 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐭𝐲 🧑🏽‍🦲 </h3>
  ➢ Belonging to an middle class, I know to achieve what I desire, 𝑺𝒎𝒂𝒓𝒕𝒏𝒆𝒔𝒔 𝑪𝒐𝒏𝒔𝒊𝒔𝒕𝒆𝒏𝒄𝒚 𝑯𝒂𝒓𝒅 𝑾𝒐𝒓𝒌 are three magical words for success. And I have learnt to incorporate that to my work and my character.
  
 ➢ Because I know that I decide my fate, I am 𝑪𝒐𝒏𝒇𝒊𝒅𝒆𝒏𝒕, I 𝑩𝒆𝒍𝒊𝒆𝒗𝒆 in myself and try to make people trust, admire and believe me, through my 𝑷𝒖𝒃𝒍𝒊𝒄 𝑺𝒑𝒆𝒂𝒌𝒊𝒏𝒈 skills and 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 nature.
 
 ➢ I love to Help people, in academic way by my 𝑮𝒆𝒏𝒆𝒓𝒐𝒔𝒊𝒕𝒚 𝒐𝒇 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 and 𝑴𝒆𝒏𝒕𝒐𝒓𝒊𝒏𝒈, in social way through Social Wing RAIT and NSS MU.
 
-## 💻 Technology & 🛠️ Tools
+<!-- ## 💻 Technology & 🛠️ Tools -->
+<h2 align="center">💻 Technology & 🛠️ Tools</h2>
+
   ### Data Science
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -82,13 +87,25 @@ Received appreciation letter from NSS MU Director for NSS Mumbai University Proj
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   
-## 📈 Git Hub Stats
+<!-- ## 📈 Git Hub Stats -->
+<h2 align="center">📈 My GitHub Stats </h2>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chavan&hide=jupyter%20notebook,html&theme=github_dark" />
   </a>
   <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs" />
 </a>
+</p>
+<br><br><br>
+
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/sahil-chavan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/SahilSChavan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahiledupor@gmail.com?subject=Hello%20Omkar,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/s_a_h_i_l_s_c/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 
