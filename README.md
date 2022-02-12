@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<!-- # Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+
+[![Header](https://github.com/Sahil-Chavan/Sahil-Chavan/blob/main/Github%20Banner%201%20(5).gif "Header")](https://some-url.dev/)
+<!-- <img align="right" alt="Coding" width="1400" src="Github Banner 1 (5).gif"> -->
 
 <!--
 **Sahil-Chavan/Sahil-Chavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
