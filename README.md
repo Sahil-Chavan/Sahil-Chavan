@@ -1,17 +1,5 @@
 
-<!-- # Hello, Coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-
-[![Header](https://github.com/Sahil-Chavan/Sahil-Chavan/blob/main/Github%20Banner%201%20(5).gif "Header")](https://some-url.dev/)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chavan&hide=jupyter%20notebook,html&theme=github_dark)](https://github.com/Sahil-Chavan/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs)
- -->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chavan&hide=jupyter%20notebook,html&theme=github_dark" />
-  </a>
-  <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs" />
-</a> -->
+[![Header](https://github.com/Sahil-Chavan/Sahil-Chavan/blob/main/assets/images/Github%20Banner%201%20(5).gif "Header")](https://some-url.dev/)
 
 <!-- ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 -->
 <h2 align="center">📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
@@ -94,17 +82,28 @@ Received appreciation letter from NSS MU Director for NSS Mumbai University Proj
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chavan&hide=jupyter%20notebook,html&theme=github_dark" />
   </a>
   <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs" />
 </a>
 </p>
-<br><br><br>
-## <h2 align="center">📫 Reach out to me on</h2>
+<!-- <br><br><br> -->
+<h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sahil-chavan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/SahilSChavan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sahiledupor@gmail.com?subject=Hello%20Omkar,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahiledupor@gmail.com?subject=Hello%20Sahil%20Chavan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/s_a_h_i_l_s_c/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<div align="center">
+  
+### Please Follow and Star my repos if you liked it and to support me.
+
+</div>
+
+![](https://github.com/Sahil-Chavan/Sahil-Chavan/blob/main/assets/images/two.png)
+
+<h2 align="center"> Check out my Repositories 🗃️ </h2>
+<!-- <img alt="footer" src="https://github.com/Sahil-Chavan/Sahil-Chavan/blob/main/assets/images/six.png" align="left" width=100% height="auto" /> -->
 
 
 
