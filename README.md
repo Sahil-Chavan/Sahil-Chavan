@@ -91,15 +91,14 @@ Received appreciation letter from NSS MU Director for NSS Mumbai University Proj
 <h2 align="center">📈 My GitHub Stats </h2>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chavan&hide=jupyter%20notebook,html&theme=github_dark" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chavan&hide=jupyter%20notebook,html&theme=github_dark" />
   </a>
   <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Chavan&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs" />
 </a>
 </p>
 <br><br><br>
-
-<h2 align="center">📫 Reach out to me on</h2>
+## <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sahil-chavan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/SahilSChavan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
