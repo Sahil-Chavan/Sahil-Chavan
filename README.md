@@ -23,31 +23,35 @@
 
 <br>
 
+
 <!-- ### ➤ 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐁𝐚𝐬𝐞 👨‍🏫 : -->
-<h3 align="center"> 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐁𝐚𝐬𝐞 👨‍🏫</h3>
- ➢ I have been accumulating skills and practicing Computer Vision, NLP, Deep Learning and Machine Learning since last 1.5 years and still going strong.
-Have worked on many projects to gather experience. Currently working on an research project. I am at a point to contribute at an larger scale. Waiting for right opportunity.
+<h3 align="center"> Professional Stance 👨‍🏫</h3>
+➢ I am worling as Data Engineer in TIAA - Nuveen, I have been responsible for creating, maintaining and enhancing the data pipelines from more that 15 data providers like Salesforce, ON24, Demandbase, etc. to Snowflake via Secure Datashare or AWS / SRJ as middle hop. Also responsible for creating visualizations and dashboards in DOMO according to the business needs.
+➢ In TIAA, I participated in 2 hackathons and secured 1st position in one of it.
 
- ➢ I started my professional coding journey from Full Stack web development, worked with an very talented and hardworking team and bagged some great projects on my way. 
+<!-- ### ➤ future 👨‍🏫 : -->
+<h3 align="center"> Journey to be Data Scientist 📊</h3>
+ ➢ With my job I have been accumulating skills and practicing Computer Vision, NLP, Deep Learning and Machine Learning since last 2.5 years, since my college days and am still going strong.
+ ➢ During my days as a student, I worked on many projects to gather experience. Bagged a copyright, published 2 research papers and have continued the research till date. I am at a point to contribute at a larger scale in the domain in Data Science domain. Waiting for right opportunity!
+	➢ I started my professional coding journey from Third Year of B.Tech as Full Stack web developer, worked with a very talented and hardworking team and bagged some great projects on my way. 
 Received appreciation letter from NSS MU Director for NSS Mumbai University Project. And recognition in my college through Automated Research Proposal System for MBBS staff at DY Patil Medical College.
-
  ➢ Performed two internships, under SDG RAIT.
- 
- ➢ Subsequently I have been called upon as expert speaker by SDG RAIT. And have successfully mentored an team for winter internship at SDG RAIT.
+	➢ Subsequently I have been called upon as expert speaker by SDG RAIT. And have successfully mentored a team for winter internship at SDG RAIT.
 
 
 <!-- ### ➤ 𝐌𝐞 𝐚𝐧𝐝 𝐌𝐲 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐭𝐲 🧑🏽‍🦲 : -->
 <h3 align="center"> 𝐌𝐞 𝐚𝐧𝐝 𝐌𝐲 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐭𝐲 🧑🏽‍🦲 </h3>
- ➢ Belonging to an middle class, I know to achieve what I desire, 𝑺𝒎𝒂𝒓𝒕𝒏𝒆𝒔𝒔 𝑪𝒐𝒏𝒔𝒊𝒔𝒕𝒆𝒏𝒄𝒚 𝑯𝒂𝒓𝒅 𝑾𝒐𝒓𝒌 are three magical words for success. And I have learnt to incorporate that to my work and my character.
- 
-➢ Because I know that I decide my fate, I am 𝑪𝒐𝒏𝒇𝒊𝒅𝒆𝒏𝒕, I 𝑩𝒆𝒍𝒊𝒆𝒗𝒆 in myself and try to make people trust, admire and believe me, through my 𝑷𝒖𝒃𝒍𝒊𝒄 𝑺𝒑𝒆𝒂𝒌𝒊𝒏𝒈 skills and 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 nature.
-
-➢ I love to Help people, in academic way by my 𝑮𝒆𝒏𝒆𝒓𝒐𝒔𝒊𝒕𝒚 𝒐𝒇 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 and 𝑴𝒆𝒏𝒕𝒐𝒓𝒊𝒏𝒈, in social way through Social Wing RAIT and NSS MU.
+	➢ Belonging to a middle class, I know to achieve what I desire, 𝑺𝒎𝒂𝒓𝒕𝒏𝒆𝒔𝒔 𝑪𝒐𝒏𝒔𝒊𝒔𝒕𝒆𝒏𝒄𝒚 𝑯𝒂𝒓𝒅 𝑾𝒐𝒓𝒌 are three magical words for success. And I have learnt to incorporate that to my work and my character.
+ ➢ Because I know that I decide my fate, I am 𝑪𝒐𝒏𝒇𝒊𝒅𝒆𝒏𝒕, I 𝑩𝒆𝒍𝒊𝒆𝒗𝒆 in myself and try to make people trust, admire and believe me, through my 𝑷𝒖𝒃𝒍𝒊𝒄 𝑺𝒑𝒆𝒂𝒌𝒊𝒏𝒈 skills and 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 nature.
+ ➢ I love to Help people, in academic way by my 𝑮𝒆𝒏𝒆𝒓𝒐𝒔𝒊𝒕𝒚 𝒐𝒇 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 and 𝑴𝒆𝒏𝒕𝒐𝒓𝒊𝒏𝒈, in social way through Social Wing RAIT and NSS MU.
+ ➢ Even in TIAA I am an active member of Cultural n Social Responsibility (CSR) community, where we conduct nature drives and help the needy by various activities like Tree plantations, Educating underprivileged kids, etc.
 
 <!-- ## 💻 Technology & 🛠️ Tools -->
 <h2 align="center">💻 Technology & 🛠️ Tools</h2>
 
-  ### Data Science
+<!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
+  ### Data Engineering 
+  ![Snowflake]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white))
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -58,6 +62,8 @@ Received appreciation letter from NSS MU Director for NSS Mumbai University Proj
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+  ### Data Science
   
   ### Web Development
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
