@@ -3,23 +3,25 @@
 
 <!-- ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 -->
 <h2 align="center">📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
-- 👨🏼‍💻 Aspiring Data Scientist and Machine Learning Engineer.
-- 👨‍🎓 Currently studying at B.E. Computer Engineering at RAIT, Navi Mumbai (2018 batch).
+
+
 
 
 
 <!-- <img alt="GIF" src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e4795mlpusrqd1hn5ufa3urg1a7spdwdl85tt5b3tnm&rid=giphy.gif&ct=g" align="left" width="200" height="200" /> -->
 <!-- <img alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" align="left" width="200" height="200" /> -->
-<img alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="left" width="200" height="200" />
+<img alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="left" width="220" height="245" />
 
 <!-- - 🔭 I’m currently working on [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) and [Hands on ML Basic to Advance](https://github.com/Niketkumardheeryan/Hands-on-ML-Basic-to-Advance-) as a part of LGM-SoC. -->
 <!-- - 🤔 I’m looking for help to crack [Google Summer of Code]() and [MLH fellowship](). -->
- - 🔭 I’m currently working on my Final Year Project i.e Applications of OD and CBIR in Fashion Industry.
-- 🌱 I’m currently learning Natural Language Processing. 
-- 👯 I’m looking to collaborate on any research paper or project.
-- 💬 Ask me anything, I am there when you need me.
-- ❤️ I love Music,Coffe and Watching Movies,Web-series & Documentaries. 
-- 📝 Get to know more about me : [Resume](https://drive.google.com/file/d/1ZjFT1YDB4nGwyF-Wn5IikzhQrvkONq0e/view?usp=sharing)
+- 👨🏼‍💻 Aspiring Data Scientist and Machine Learning Engineer.
+- 👨‍🎓 Currently working as Data Engineer at TIAA-NUVEEN, since Jul 2022
+- 🔭 I am also involved in a research proect extended from Final Year proect i.e Applications of OD and CBIR in Fashion Industry. We have published 2 research papers based on this project and the number will continue.
+- 🌱 Always in a state of learning and exploring Data Science.
+- 👯 I’m open to collaborate on any research paper or project.
+- 💬 Ask me anything, I am there if n when you need me.
+- ❤️ I love Music, Coffe, Watching Movies, Web-series & Documentaries. 
+- 📝 Get to know more about me : [Resume](https://drive.google.com/file/d/1YBtgQwCoBIZKFqKSsB3j4ab1Uv9G6y_X/view?usp=sharing)
 
 <br>
 
