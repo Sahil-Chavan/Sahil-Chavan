@@ -11,7 +11,7 @@
 - 🌱 Always learning and exploring the evolving field of **Data Science**.  
 - 👯 Open to collaborations on **research projects** or **industry-grade ML solutions**.  
 - ❤️ Interests: Music 🎵, Coffee ☕, Movies 🎥, and Documentaries 📚.  
-- 📝 [**My Resume**](https://drive.google.com/file/d/1YBtgQwCoBIZKFqKSsB3j4ab1Uv9G6y_X/view?usp=sharing).  
+- 📝 [**My Resume**](https://drive.google.com/file/d/1s8WzO2mG8lo2FYmds9s5kJrlbqhGI9u1/view?usp=sharing).  
 
 <br>
 
