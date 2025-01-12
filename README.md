@@ -1,4 +1,4 @@
-[![Header](https://github.com/Sahil-Chavan/Sahil-Chavan/blob/main/assets/images/Github%20Banner%201.gif "Header")](https://some-url.dev/)
+[![Header](https://github.com/Sahil-Chavan/Sahil-Chavan/blob/main/assets/images/Github%20Banner%202.gif "Header")](https://some-url.dev/)
 
 <!-- ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 -->
 <h2 align="center">📖 About Me</h2>
