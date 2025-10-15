@@ -5,32 +5,37 @@
 
 <img alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="left" width="220" height="245" />
 
-- 👨🏼‍💻 Aspiring **Data Scientist** and **Machine Learning Engineer**.  
-- 👨‍🎓 **MS in Data Science** @ **Columbia University**, NYC (Fall 2024 - Expected Dec 2025).  
-- 🔭 **Research Focus**: Object Detection and CBIR in Fashion Industry—published **2 research papers** and continuing to explore.  
+- 👨🏼‍💻 Data Scientist and AI/ML Researcher with a focus on building and deploying scalable, real-world solutions.
+- 👨‍🎓 M.S. in Data Science @ Columbia University, NYC (Expected Dec 2025).
+- 🔭 Current Research: Applying advanced machine learning to single-cell genomics and immunology at Columbia's Mailman School of Public Health.
+- 👨🏼‍🏫 Teaching Assistant for graduate courses at Columbia, including Modern Data Structures and Advanced Machine Learning.
 - 🌱 Always learning and exploring the evolving field of **Data Science**.  
 - 👯 Open to collaborations on **research projects** or **industry-grade ML solutions**.  
 - ❤️ Interests: Music 🎵, Coffee ☕, Movies 🎥, and Documentaries 📚.  
-- 📝 [**My Resume**](https://drive.google.com/file/d/1s8WzO2mG8lo2FYmds9s5kJrlbqhGI9u1/view?usp=sharing).  
+- 📝 [**My Resume**]([https://drive.google.com/file/d/1s8WzO2mG8lo2FYmds9s5kJrlbqhGI9u1/view?usp=sharing](https://drive.google.com/file/d/1pPAooAWA56fvWbAaWvB73iVddcZVoraP/view?usp=sharing)).  
 
 <br>
+<h3 align="center">💡 Key Experience & Focus</h3>
 
-<h3 align="center">💻 Professional Stance </h3>
+➢ ☁️ Cloud Research | Data Science & Gen AI Researcher
+- Architecting a state-of-the-art Generative AI feature to create synthetic AI personas for survey responses using Retrieval-Augmented Generation (RAG) and finetuned models.
 
-➢ Former **Data Engineer** at **TIAA-NUVEEN**, where I:
+➢ 🚀 Amazon | Data Science Intern
+- Architected an autonomous agentic LLM platform for customer experience (CX) defect discovery, achieving a 100x velocity improvement over manual methods.
+- Built production-scale RAG pipelines using Amazon Bedrock Knowledge Bases for deep contextual grounding of CX violations.
 
-- Designed and managed **data pipelines** integrating data from 15+ sources like Salesforce and ON24 into Snowflake.  
-- Streamlined ETL processes, improving efficiency and reducing data ingestion time by **33%**.  
-- Created **real-time dashboards** in DOMO to drive data-driven decision-making.
-  
-➢ Currently focusing on **AI research**, projects, and expanding my skills in **Machine Learning** and **Deep Learning**.  
-<br>
-<h3 align="center">🎯 Journey to Becoming a Data Scientist</h3>
+➢ 🏢 TIAA | Data Scientist
+- Engineered hybrid recommendation systems (XGBoost, BERT4Rec) that boosted advisor-led upsell/cross-sell rates by 18% and achieved 82% precision.
+- Built and managed scalable ETL pipelines over 10+ TB of data using AWS (Glue, S3), Snowflake, and PySpark.
 
-➢ Developing expertise in **NLP**, **Computer Vision**, **Deep Learning**, and **Machine Learning** since 2020.  
-➢ Final Year Project led to **2 research papers** and inspired further innovation in **fashion AI**.  
-➢ Mentored projects and teams during internships at **SDG-RAIT**, earning accolades like the NSS Director's letter of appreciation and media features.  
-<br>
+<h3 align="center">🎓 Academic & Teaching Highlights</h3>
+
+➢ <b>Mentorship & Teaching:</b> As a Teaching Assistant at Columbia, I have designed course content and mentored over 40 graduate students on projects spanning NLP, Computer Vision, and time series forecasting.
+
+➢ <b>Research & Publications:</b> Authored two research papers published in Springer on a novel ensemble algorithm for object detection ("Non-linear Maximal Weighted Box Integration") developed during my undergraduate thesis.
+
+➢ <b>Early Internships & Impact:</b> Gained foundational experience through internships where I developed award-winning NLP and recommendation systems that earned a government copyright and media recognition.
+
 <h3 align="center">🧑🏽‍🦲 Me and My Personality</h3>
 
 ➢ I believe in **Smartness, Consistency, and Hard Work** as keys to success.  
