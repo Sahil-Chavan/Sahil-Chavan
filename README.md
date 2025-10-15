@@ -11,8 +11,8 @@
 - 👨🏼‍🏫 Teaching Assistant @ Columbia, including Modern Data Structures and Advanced Machine Learning.
 - 🌱 Always learning and exploring the evolving field of **Data Science**.  
 - 👯 Open to collaborations on **research projects** or **industry-grade ML solutions**.  
-- ❤️ Interests: Music 🎵, Coffee ☕, Movies 🎥, and Documentaries 📚.  
-- 📝 [**My Resume**]([https://drive.google.com/file/d/1s8WzO2mG8lo2FYmds9s5kJrlbqhGI9u1/view?usp=sharing](https://drive.google.com/file/d/1pPAooAWA56fvWbAaWvB73iVddcZVoraP/view?usp=sharing)).  
+- ❤️ Interests: Music 🎵, Coffee ☕, Movies 🎥, and Documentaries 📚.
+- 📝 [**My Resume**](https://drive.google.com/file/d/1pPAooAWA56fvWbAaWvB73iVddcZVoraP/view?usp=sharing)
 
 <br>
 <h3 align="center">💡 Key Experience & Focus</h3>
