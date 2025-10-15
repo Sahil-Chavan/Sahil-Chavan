@@ -3,12 +3,12 @@
 <!-- ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 -->
 <h2 align="center">📖 About Me</h2>
 
-<img alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="left" width="220" height="245" />
+<img alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align="left" width="220" height="255" />
 
 - 👨🏼‍💻 Data Scientist and AI/ML Researcher with a focus on building and deploying scalable, real-world solutions.
 - 👨‍🎓 M.S. in Data Science @ Columbia University, NYC (Expected Dec 2025).
-- 🔭 Current Research: Applying advanced machine learning to single-cell genomics and immunology at Columbia's Mailman School of Public Health.
-- 👨🏼‍🏫 Teaching Assistant for graduate courses at Columbia, including Modern Data Structures and Advanced Machine Learning.
+- 🔭 Current Research: Applying AI to single-cell genomics and immunology at Columbia's Mailman School.
+- 👨🏼‍🏫 Teaching Assistant @ Columbia, including Modern Data Structures and Advanced Machine Learning.
 - 🌱 Always learning and exploring the evolving field of **Data Science**.  
 - 👯 Open to collaborations on **research projects** or **industry-grade ML solutions**.  
 - ❤️ Interests: Music 🎵, Coffee ☕, Movies 🎥, and Documentaries 📚.  
